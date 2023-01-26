@@ -1,0 +1,13 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: red;
+    line-height: 100px;
+    text-align: center;
+}
+
+.container {
+    list-style: none;
+    gap: 5px;
+}
